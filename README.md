@@ -6,6 +6,12 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Morehead--Cain-Global%20Fellow%20'27-0f4c81?style=for-the-badge&logo=education&logoColor=white" alt="Morehead-Cain Global Fellow '27"/>
+  <img src="https://img.shields.io/badge/VIT%20Chennai-Dept%20Rank%20%231-orange?style=for-the-badge&logo=academia&color=e05a47" alt="VIT Chennai Dept Rank #1"/>
+  <img src="https://img.shields.io/badge/CGPA-9.71%20%2F%2010-green?style=for-the-badge&color=2ea44f" alt="CGPA 9.71"/>
+</div>
+
 ---
 
 ### 🚀 About Me
