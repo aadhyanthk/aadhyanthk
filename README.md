@@ -47,7 +47,7 @@ Below are the primary projects pinned on my profile:
       <img src="https://img.shields.io/badge/Chrome_Extension-yellow?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/aadhyanthk/pca">pca</a></h3>
+      <h3>📈 <a href="https://github.com/aadhyanthk/PCA-Educator-Simulator">PCA-Educator-Simulator</a></h3>
       <p>Interactive PCA Educator. A React-based visual simulator for Principal Component Analysis featuring native Eigen-decomposition. Allows real-time mathematical visualizations of data projection, eigenvalues, and components directly in the browser.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -55,13 +55,13 @@ Below are the primary projects pinned on my profile:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/aadhyanthk/concurrency_detection">concurrency_detection</a></h3>
+      <h3>⚙️ <a href="https://github.com/aadhyanthk/Concurrency-Control-Simulator">Concurrency-Control-Simulator</a></h3>
       <p>Automated tool for detecting, tracing, and analyzing concurrency-related race conditions and deadlocks in Python multi-threaded environments.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Concurrency-blue?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ <a href="https://github.com/aadhyanthk/saliency-compression">saliency-compression</a></h3>
+      <h3>🖼️ <a href="https://github.com/aadhyanthk/Saliency-Image-Compression">Saliency-Image-Compression</a></h3>
       <p>Image compression application utilizing human visual attention models to identify and preserve saliency-based focus areas while compressing background regions more aggressively.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -69,13 +69,13 @@ Below are the primary projects pinned on my profile:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/aadhyanthk/air_canvas">air_canvas</a></h3>
+      <h3>🎨 <a href="https://github.com/aadhyanthk/Air-Canvas">Air-Canvas</a></h3>
       <p>Hand-gesture air canvas built using computer vision and media pipelines. Tracks finger coordinates live from webcam to draw, modify shapes, and navigate UI inputs in real-time.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/aadhyanthk/rsa_chatroom">rsa_chatroom</a></h3>
+      <h3>🔐 <a href="https://github.com/aadhyanthk/RSA-Chatroom">RSA-Chatroom</a></h3>
       <p>Educational implementation of RSA asymmetric cryptography. Facilitates secure encrypted messaging over both a Python command-line interface (CLI) and a web chat server.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cryptography-purple?style=flat-square"/>
