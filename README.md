@@ -3,8 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Morehead--Cain-Global%20Fellow%20'27-0f4c81?style=for-the-badge&logo=education&logoColor=white" alt="Morehead-Cain Global Fellow '27"/>
   <img src="https://img.shields.io/badge/VIT%20Chennai-Dept%20Rank%20%231-orange?style=for-the-badge&logo=academia&color=e05a47" alt="VIT Chennai Dept Rank #1"/>
-  <img src="https://img.shields.io/badge/CGPA-9.72%20%2F%2010-green?style=for-the-badge&color=2ea44f" alt="CGPA 9.72"/>
-  <img src="https://img.shields.io/badge/Awards-8x%20Endowment-gold?style=for-the-badge&logo=award&color=dfb317" alt="8x Endowment Awards"/>
+  <img src="https://img.shields.io/badge/CGPA-9.71%20%2F%2010-green?style=for-the-badge&color=2ea44f" alt="CGPA 9.71"/>
 </div>
 
 ---
@@ -14,7 +13,7 @@
 I am a Computer Science undergraduate at **VIT Chennai** specializing in **Cybersecurity, Cryptography, Hardware Security, and AI Engineering**. 
 As a developer and security researcher, I focus on identifying system vulnerabilities, designing robust cryptographic flows, and building transparent, human-in-the-loop AI systems.
 
-* 🎓 **Academic Excellence**: Department Rank #1 with a 9.72 CGPA and recipient of 8x Endowment Awards.
+* 🎓 **Academic Excellence**: Department Rank #1 with a 9.71 CGPA.
 * 🌍 **Global Fellowships**: Morehead-Cain Global Fellow Class of 2027.
 * 🛡️ **Community & Leadership**: Management Team member at VIT Chennai's **Robotics Club** and Technical Mentor at **CYSCOM** (VIT Cybersecurity Club).
 
@@ -95,13 +94,11 @@ Below are the primary projects pinned on my profile:
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadhyanthk&show_icons=true&theme=tokyonight&hide_border=true" alt="Aadhyanth's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhyanthk&theme=tokyonight&hide_border=true" alt="Aadhyanth's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadhyanthk&show_icons=true&theme=tokyonight" alt="Aadhyanth's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhyanthk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhyanthk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
