@@ -40,6 +40,20 @@ Below are the primary projects pinned on my profile:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/aadhyanthk/Healthi">Healthi</a></h3>
+      <p>A frictionless, AI-powered health ledger for seniors. Turns everyday language into a clear, clinical health timeline that patients, families, and doctors can understand together.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/aadhyanthk/Carbon-Ledger">Carbon-Ledger</a></h3>
+      <p>A fintech-inspired carbon footprint tracker. Track emissions against a budget, log activities with Gemini AI, and grow an animated HTML5 Canvas forest with your green habits.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/aadhyanthk/Personal-Agent">Personal-Agent</a></h3>
       <p>An intelligent, human-in-the-loop personal assistant designed to manage Gmail and Google Calendar workflows. Built with a transparent python agentic loop, database logs for LLM cost/observability, and a Chrome Extension frontend.</p>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -65,20 +79,6 @@ Below are the primary projects pinned on my profile:
       <p>Image compression application utilizing human visual attention models to identify and preserve saliency-based focus areas while compressing background regions more aggressively.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/aadhyanthk/Air-Canvas">Air-Canvas</a></h3>
-      <p>Hand-gesture air canvas built using computer vision and media pipelines. Tracks finger coordinates live from webcam to draw, modify shapes, and navigate UI inputs in real-time.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/aadhyanthk/RSA-Chatroom">RSA-Chatroom</a></h3>
-      <p>Educational implementation of RSA asymmetric cryptography. Facilitates secure encrypted messaging over both a Python command-line interface (CLI) and a web chat server.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cryptography-purple?style=flat-square"/>
     </td>
   </tr>
 </table>
