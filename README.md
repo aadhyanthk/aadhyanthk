@@ -40,16 +40,16 @@ Below are the primary projects pinned on my profile:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/aadhyanthk/Healthi">Healthi</a></h3>
-      <p>A frictionless, AI-powered health ledger for seniors. Turns everyday language into a clear, clinical health timeline that patients, families, and doctors can understand together.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌿 <a href="https://github.com/aadhyanthk/Carbon-Ledger">Carbon-Ledger</a></h3>
       <p>A fintech-inspired carbon footprint tracker. Track emissions against a budget, log activities with Gemini AI, and grow an animated HTML5 Canvas forest with your green habits.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/aadhyanthk/Healthi">Healthi</a></h3>
+      <p>A frictionless, AI-powered health ledger for seniors. Turns everyday language into a clear, clinical health timeline that patients, families, and doctors can understand together.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
     </td>
   </tr>
   <tr>
